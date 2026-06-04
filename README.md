@@ -20,7 +20,7 @@ This project focuses on analyzing retail sales data to identify revenue trends, 
 
   ## Dashboard Preview
   ![Dashboard Overview]
-  (dashboard_overview.jpeg)
+  (business-sales-performance-analytics/dashboard_overview.jpeg)
 
 ## Key Insights
 
