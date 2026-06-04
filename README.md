@@ -18,10 +18,6 @@ This project focuses on analyzing retail sales data to identify revenue trends, 
 - Microsoft Excel
 - Power BI
 
-  ## Dashboard Preview
-  ![Dashboard Overview]
-  (business-sales-performance-analytics/dashboard_overview.jpeg)
-
 ## Key Insights
 
 - Sales showed an overall upward trend during the analysis period.
