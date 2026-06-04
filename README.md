@@ -46,7 +46,3 @@ This project focuses on analyzing retail sales data to identify revenue trends, 
 
   # Author
   Vaishnavi
-
-Author
-
-Vaishnavi Singh
