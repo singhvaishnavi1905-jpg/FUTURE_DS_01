@@ -1,4 +1,3 @@
-
 # FUTURE_DS_01 – Business Sales Performance Analytics
 
 ## Project Overview
@@ -25,6 +24,7 @@ This project focuses on analyzing retail sales data to identify revenue trends, 
 - The Consumer segment contributed the highest share of revenue.
 - Regional performance varied significantly across markets.
 - Top-performing products generated a substantial share of total profit.
+![Power BI Dashboard] (dashboard_overview.jpeg)
 
 ## Recommendations
 
